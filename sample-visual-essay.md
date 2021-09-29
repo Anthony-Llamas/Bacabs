@@ -2,7 +2,8 @@
 
 <param ve-config 
        title="Ritual of the Bacabs" 
-       banner="https://www.google.com/url?sa=i&url=https%3A%2F%2Fread.dukeupress.edu%2Fethnohistory%2Farticle-pdf%2F66%2F4%2F721%2F688332%2F721knowlton.pdf&psig=AOvVaw318reNnk0Bx0hRBLX9KlC3&ust=1633042474063000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDR7ryjpfMCFQAAAAAdAAAAABAE" 
+       banner="![image](https://user-images.githubusercontent.com/91639305/135359745-833bda15-ebb9-4a55-af5c-d1c99c634f52.png)
+" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
