@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Ritual of the Bacabs" 
+       banner="https://www.google.com/url?sa=i&url=https%3A%2F%2Fread.dukeupress.edu%2Fethnohistory%2Farticle-pdf%2F66%2F4%2F721%2F688332%2F721knowlton.pdf&psig=AOvVaw318reNnk0Bx0hRBLX9KlC3&ust=1633042474063000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDR7ryjpfMCFQAAAAAdAAAAABAE" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
